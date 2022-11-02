@@ -56,5 +56,24 @@ namespace ECount
 
             return result;
         }
+
+
+        public Dictionary<ProductModel, DateTime> GetDate(DateTime targetDate)
+        {
+            var result = new Dictionary<ProductModel, DateTime>();   //상품 정보랑 개수 저장
+            var purchases = this.Sdk.Purchase.GetHistory();     //구매 목록 가져옴
+
+            Console.WriteLine("타겟 날자" + targetDate);
+
+            foreach (var purchase in purchases)
+            {
+                //Console.WriteLine("반복문-> " + purchase.Date);
+                if (purchase.Date == targetDate)
+                {
+                    result.Add(purchase.Product, purchase.Date);
+                }
+            }
+            return result;
+        }
     }
 }

@@ -66,6 +66,15 @@ namespace sample_app
                 Console.WriteLine(item);
             }
 
+            Console.WriteLine("---- 상품 인벤토리에서 날짜 검색 ----");
+            var search1 = sdk.Inventory.GetDate(new DateTime(2021, 2, 1));
+            Console.WriteLine("메인"+search1);
+            foreach (var item in search1)
+            {
+                Console.WriteLine(item);
+            }
+
+
             //추가사항
             //var status = sdk.Invenrory.GetStatus(new DateTime(2022.10.1)); //이 날짜 시점에서재고현황
             //sdk.Sale.create("밀가루", 100, 2022 / 01 / 22);

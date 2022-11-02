@@ -32,7 +32,6 @@ namespace ECount
             //람다식 사용
             return products.Find(x => x.Name == name);
         }
-
     }
 
     //프로덕트모델 붕어빵 틀

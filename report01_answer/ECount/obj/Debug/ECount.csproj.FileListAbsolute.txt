@@ -10,3 +10,9 @@ C:\Users\devedu21\Desktop\박송희\씨샵\ECount_Inventory_Management_App\20221
 C:\Users\devedu21\Desktop\박송희\씨샵\ECount_Inventory_Management_App\20221102_박송희_기능추가\report01_answer\ECount\obj\Debug\ECount.csproj.CoreCompileInputs.cache
 C:\Users\devedu21\Desktop\박송희\씨샵\ECount_Inventory_Management_App\20221102_박송희_기능추가\report01_answer\ECount\obj\Debug\ECount.dll
 C:\Users\devedu21\Desktop\박송희\씨샵\ECount_Inventory_Management_App\20221102_박송희_기능추가\report01_answer\ECount\obj\Debug\ECount.pdb
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\bin\Debug\ECount.dll
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\bin\Debug\ECount.pdb
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\obj\Debug\ECount.csproj.AssemblyReference.cache
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\obj\Debug\ECount.csproj.CoreCompileInputs.cache
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\obj\Debug\ECount.dll
+E:\projects\씨샵\20221102_박송희_기능추가\inventory-management-app\report01_answer\ECount\obj\Debug\ECount.pdb
